@@ -1,3 +1,5 @@
+![image](https://github.com/Sumir123/reactQuillCustom/assets/71181873/181cb73f-c972-449d-b4b4-0a3f6ab430a3)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
